@@ -21,9 +21,14 @@
 
 .posters::-webkit-scrollbar-thumb {
     background: #FF0000;
+    display: none;
 }
 .poster{
     max-height: 250px;
     margin-right: 10px;
     
+}
+.smallPoster{
+    max-height: 150px;
+    margin-left: 10px;
 }
