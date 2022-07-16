@@ -35,6 +35,7 @@ function RowPost(props) {
       
       console.log("Key:                    ",urlId)
     })
+    window.scrollBy(0, 500)
   }
 
 
